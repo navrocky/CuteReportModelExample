@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/reports">
+        <file>test.qtrp</file>
+    </qresource>
+</RCC>
